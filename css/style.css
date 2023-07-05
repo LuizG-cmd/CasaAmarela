@@ -1,0 +1,102 @@
+body{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+#navbar-tittle{
+    padding: 0.5rem;
+    font-size: 25px;
+    letter-spacing: 0.3rem;
+}
+
+#navbar-items{
+    padding: 0.8rem;
+    font-size: 20px;
+}
+
+#navbar-items a:hover{
+    color:lightseagreen;
+}
+
+#navbar-tittle a:hover{
+    color:lightseagreen;
+}
+
+#navbar-items ul, li, a{
+    display: inline;
+    padding-left: 0.8rem;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+.ativado{
+    color: green;
+}
+
+@media only screen and (max-width: 600px) {
+    #navbar-items{
+        display: none;
+    }
+
+    #navbar-tittle{
+        text-align: center;
+    }
+
+    #navbar{
+        display: flex;
+        justify-content: center;
+    }
+
+    #servicos a{
+        color:lightseagreen;
+    }
+
+
+  }
+
+
+
+#homepage{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("/assets/wall-21534_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+#promocoes{
+    background: rgba(188, 154, 31, 0.4);
+}
+
+#projetos{
+    background: rgba(188, 154, 31, 0.4);
+}
+
+#location{
+    background: rgba(188, 154, 31, 0.4);
+}
+
+
+footer{
+    background-color: lightgrey;
+}
+
+
+#servicos a:hover{
+    color:lightseagreen;
+}
+
+
+
+
+
+
+
