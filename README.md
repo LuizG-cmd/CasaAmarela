@@ -16,7 +16,7 @@ Este projeto é uma landing page simples desenvolvida para uma casa de construç
 
 ## 🔗 Link do projeto
 
-[➡️ casaamarela-construcao.vercel.app
+[➡️casaamarela-construcao.vercel.app](https://casa-amarela.vercel.app/)
 
 ## 💼 Sobre o Projeto
 
