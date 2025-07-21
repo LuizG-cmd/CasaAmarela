@@ -13,6 +13,7 @@ Este projeto é uma landing page simples desenvolvida para uma casa de construç
 - Página responsiva com layout limpo e objetivo
 - Seção com informações básicas sobre a loja
 - Botão de contato via WhatsApp para facilitar a comunicação com os clientes
+- Localização da loja na página central via Google Maps
 
 ## 🔗 Link do projeto
 
