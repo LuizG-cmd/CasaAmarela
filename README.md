@@ -14,9 +14,9 @@ Este projeto é uma landing page simples desenvolvida para uma casa de construç
 - Seção com informações básicas sobre a loja
 - Botão de contato via WhatsApp para facilitar a comunicação com os clientes
 
-## 🔗 Link de Contato
+## 🔗 Link do projeto
 
-[➡️ Fale conosco via WhatsApp](https://wa.me/+*************)
+[➡️ casaamarela-construcao.vercel.app
 
 ## 💼 Sobre o Projeto
 
